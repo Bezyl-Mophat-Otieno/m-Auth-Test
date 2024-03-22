@@ -1,0 +1,103 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "jane@example.com",
+      "password": "123456"
+    },
+    {
+      "id": "1cf0",
+      "name": "Bezyl Mophat Otieno",
+      "email": "bezylmophat@gmail.com",
+      "password": "0000000"
+    },
+    {
+      "id": "0444",
+      "name": "John",
+      "email": "john@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "9946",
+      "name": "Mark",
+      "email": "Mark@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "402f",
+      "name": "Mark",
+      "email": "Mark@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "cf0b",
+      "name": "Mark",
+      "email": "Mark@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "3e9e",
+      "name": "Mark",
+      "email": "Mark@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "0293",
+      "name": "Mark",
+      "email": "Mark@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "ff4b",
+      "name": "Mark",
+      "email": "Mark@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "198d",
+      "name": "irfubv",
+      "email": "john@hjcdbjhs.com",
+      "password": "02938477"
+    },
+    {
+      "id": "88d1",
+      "name": "Bezyl Mophat Senior",
+      "email": "bezylmophatotieno@gmail.com",
+      "password": "02938477"
+    }
+  ]
+}
